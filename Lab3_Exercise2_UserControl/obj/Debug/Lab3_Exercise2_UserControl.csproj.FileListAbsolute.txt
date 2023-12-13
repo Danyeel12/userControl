@@ -1,0 +1,12 @@
+C:\Users\Daniel\source\repos\4th Semester\Assignments\Lab3_Exercise2_UserControl\Lab3_Exercise2_UserControl\bin\Debug\Lab3_Exercise2_UserControl.exe.config
+C:\Users\Daniel\source\repos\4th Semester\Assignments\Lab3_Exercise2_UserControl\Lab3_Exercise2_UserControl\bin\Debug\Lab3_Exercise2_UserControl.exe
+C:\Users\Daniel\source\repos\4th Semester\Assignments\Lab3_Exercise2_UserControl\Lab3_Exercise2_UserControl\bin\Debug\Lab3_Exercise2_UserControl.pdb
+C:\Users\Daniel\source\repos\4th Semester\Assignments\Lab3_Exercise2_UserControl\Lab3_Exercise2_UserControl\obj\Debug\Lab3_Exercise2_UserControl.csproj.AssemblyReference.cache
+C:\Users\Daniel\source\repos\4th Semester\Assignments\Lab3_Exercise2_UserControl\Lab3_Exercise2_UserControl\obj\Debug\Lab3_Exercise2_UserControl.csproj.SuggestedBindingRedirects.cache
+C:\Users\Daniel\source\repos\4th Semester\Assignments\Lab3_Exercise2_UserControl\Lab3_Exercise2_UserControl\obj\Debug\Exercise2_UserControlLogin.LoginUserControl.resources
+C:\Users\Daniel\source\repos\4th Semester\Assignments\Lab3_Exercise2_UserControl\Lab3_Exercise2_UserControl\obj\Debug\Lab3_Exercise2_UserControl.Properties.Resources.resources
+C:\Users\Daniel\source\repos\4th Semester\Assignments\Lab3_Exercise2_UserControl\Lab3_Exercise2_UserControl\obj\Debug\Lab3_Exercise2_UserControl.csproj.GenerateResource.cache
+C:\Users\Daniel\source\repos\4th Semester\Assignments\Lab3_Exercise2_UserControl\Lab3_Exercise2_UserControl\obj\Debug\Lab3_Exercise2_UserControl.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\4th Semester\Assignments\Lab3_Exercise2_UserControl\Lab3_Exercise2_UserControl\obj\Debug\Lab3_Exercise2_UserControl.exe
+C:\Users\Daniel\source\repos\4th Semester\Assignments\Lab3_Exercise2_UserControl\Lab3_Exercise2_UserControl\obj\Debug\Lab3_Exercise2_UserControl.pdb
+C:\Users\Daniel\source\repos\4th Semester\Assignments\Lab3_Exercise2_UserControl\Lab3_Exercise2_UserControl\obj\Debug\Exercise2_UserControlLogin.MainForm.resources
